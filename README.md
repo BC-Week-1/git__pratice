@@ -1,30 +1,18 @@
 # git__pratice
-<<<<<<< HEAD
-<<<<<<< HEAD
 
+### J003_강수홍
+- 웹풀스택 7기 강수홍입니다! 현재까지는 프론트엔드 위주로 공부해왔고, 백엔드도 잘해져서 뛰어난 풀스택 개발자로서 거듭나고 싶습니다!
 
 j002 - "안녕하세요"
-=======
 
->>>>>>> f6e428a848f786e4e88ae6ca0be1e9072b21e709
-=======
 ### J004
 Hello, I'm Sion Kang
 I am mainly studying backend development.
-<<<<<<< HEAD
->>>>>>> 35ac131341bbf6eb3cde46e521afa6c5ab79495e
-=======
-
 
 ### Taeho
 
 저녁 뭐 먹지
-<<<<<<< HEAD
->>>>>>> 9a229e2307943ca6bf29c3484ec15e043b4f5f67
-=======
-
 
 ### 강보석
 
 배고파요.
->>>>>>> f6e428a848f786e4e88ae6ca0be1e9072b21e709
